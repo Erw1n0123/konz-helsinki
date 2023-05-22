@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helsinki1952", "helsinki1952\helsinki1952.csproj", "{1C382FB2-8E54-4663-901D-4929F9415576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helsinki1952Tests", "helsinki1952Tests\helsinki1952Tests.csproj", "{1D897FCD-A51F-4058-B91C-78D8E5D5BCE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C382FB2-8E54-4663-901D-4929F9415576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C382FB2-8E54-4663-901D-4929F9415576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C382FB2-8E54-4663-901D-4929F9415576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C382FB2-8E54-4663-901D-4929F9415576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D897FCD-A51F-4058-B91C-78D8E5D5BCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D897FCD-A51F-4058-B91C-78D8E5D5BCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D897FCD-A51F-4058-B91C-78D8E5D5BCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D897FCD-A51F-4058-B91C-78D8E5D5BCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4E116A-0E06-4E2A-9F59-C208D7FA47C5}
+	EndGlobalSection
+EndGlobal
